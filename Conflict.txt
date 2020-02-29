@@ -1,0 +1,24 @@
+
+競合テスト
+
+・master
+・conflict_test
+
+上記ブランチにそれぞれ切り替えて
+
+同じ行数の文字を修正してコミットして下さい。
+
+修正後は master ブランチに対して
+
+conflict_test をマージしてみましょう。
+
+
+test1
+
+test2
+
+test3
+
+test4
+
+test5
